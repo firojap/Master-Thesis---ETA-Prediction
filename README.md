@@ -22,3 +22,9 @@ This is the repository of my Data Science master's degree thesis at Freie Univer
 | **1D-CNN**|        108.40  |      33597.39 |      171.85   |      79980.45 |       129.61            |      43108.33           |      123.93                   |       41250.50                 |
 
 *Note: MAE in minutes and MSE in minutes².*
+
+### Feature Importance with SHAP:
+![Summary Plot](https://github.com/firojap/Master_Thesis__ETA_Prediction/raw/master/Figures/summary_plot.png)
+
+*Figure 1: Summary plot from the Master Thesis on ETA Prediction.*
+
