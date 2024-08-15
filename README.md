@@ -26,5 +26,5 @@ This is the repository of my Data Science master's degree thesis at Freie Univer
 ### Feature Importance with SHAP:
 ![Summary Plot](https://github.com/firojap/Master_Thesis__ETA_Prediction/raw/master/Figures/summary_plot.png)
 
-*Figure 1: Summary plot from the Master Thesis on ETA Prediction.*
+__Figure:__ *SHAP summary plot for the BiLSTM model. Red dots represent the high values of each feature and blue dots represent the low values of each feature. The y-axis lists the features in order of their importance, with the most significant feature at the top. The x-axis represents the SHAP values, which indicate the magnitude and direction of each feature’s impact on the model’s output.*
 
